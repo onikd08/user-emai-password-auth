@@ -12,6 +12,9 @@ const Header = () => {
       <li>
         <NavLink to={"/signup"}>Sign Up</NavLink>
       </li>
+      <li>
+        <NavLink to={"/daisyuisignup"}>DaisyUI SignUp</NavLink>
+      </li>
     </>
   );
   return (
